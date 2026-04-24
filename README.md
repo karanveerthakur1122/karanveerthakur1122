@@ -35,12 +35,9 @@ contact: karanveerthakur1122@gmail.com
 ## `> github_stats`
 
 <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=karanveerthakur1122&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img width="47%" src="https://nirzak-streak-stats.vercel.app/?user=karanveerthakur1122&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</div>
-
-<div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanveerthakur1122&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=karanveerthakur1122&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img width="32%" src="https://streak-stats.demolab.com?user=karanveerthakur1122&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanveerthakur1122&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 
 ## `> connect`
