@@ -6,6 +6,12 @@
 
 </div>
 
+<div align="right">
+
+![Profile Views](https://komarev.com/ghpvc/?username=karanveerthakur1122&color=58a6ff&style=flat-square&label=Visitors)
+
+</div>
+
 ## `> whoami`
 
 ```yaml
