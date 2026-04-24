@@ -18,7 +18,6 @@
 name: Karanveer Thakur
 role: Full Stack Developer
 location: Nepal
-current_project: GharKhoj Nepal — Modern rental property management platform
 interests: [Web Applications, Cloud Architecture, Real-time Systems]
 contact: karanveerthakur1122@gmail.com
 ```
